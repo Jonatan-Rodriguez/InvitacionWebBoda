@@ -40,7 +40,7 @@ const countdown = (deadline,elem,finalMessage) => {
     }, 1000)
 };
     
-countdown('Jun 30 2023 21:00:00 GMT-0300', 'clock', '¡Feliz cumpleaños!');
+countdown('Jun 27 2023 21:00:00 GMT-0300', 'clock', '¡Feliz cumpleaños!');
   
 //Slider de fotos
 const slider = document.querySelector("#slider");
